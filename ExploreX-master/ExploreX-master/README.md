@@ -38,11 +38,6 @@ We encourage you to engage with our growing community of travel enthusiasts. Fol
 ## Contributing
 
 We welcome contributions to make ExploreX even better. If you have ideas, bug fixes, or improvements to suggest, please open an issue or submit a pull request.
-## License
-
-This project is licensed under the MIT License.
-
-Thank you for choosing ExploreX as your travel companion. Happy exploring!
 
 ## Visit
 https://exploreex.netlify.app/
